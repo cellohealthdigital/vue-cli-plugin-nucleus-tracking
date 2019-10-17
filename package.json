@@ -1,0 +1,13 @@
+{
+  "name": "vue-cli-plugin-nucleus-tracking",
+  "version": "0.1.1",
+  "description": "Vue-cli 3 plugin for adding nucleus tracking support to Vue projects using electron",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cellohealthdigital/vue-cli-plugin-nucleus-tracking.git"
+  },
+  "author": "Cello Health Digital Team <cellohealthdigital@gmail.com>",
+  "license": "MIT",
+  "homepage": "https://github.com/cellohealthdigital/vue-cli-plugin-nucleus-tracking#readme"
+}
