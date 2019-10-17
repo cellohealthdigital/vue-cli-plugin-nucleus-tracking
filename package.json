@@ -9,5 +9,8 @@
   },
   "author": "Cello Health Digital Team <cellohealthdigital@gmail.com>",
   "license": "MIT",
-  "homepage": "https://github.com/cellohealthdigital/vue-cli-plugin-nucleus-tracking#readme"
+  "homepage": "https://github.com/cellohealthdigital/vue-cli-plugin-nucleus-tracking#readme",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/"
+  }
 }
